@@ -1,11 +1,128 @@
-# Backup Account #2 - Paste your second Facebook account credentials here
-# This account will be used if account.txt fails (suspended, locked, etc.)
-#
-# Format options:
-# 1. Cookies (JSON format): [{"key":"c_user","value":"123456","domain":"facebook.com"}]
-# 2. Cookies (string format): c_user=123456; xs=abc123
-# 3. Token: EAAAA...
-# 4. Email/Password: email@example.com|password|2FACode
-# 5. Netscape cookies format
-#
-# Delete this comment and paste your credentials below:
+[
+	{
+		"key": "datr",
+		"value": "vgTFagnHm3FW_TiaDDa6hcpB",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-10-06T15:46:53.480Z",
+		"lastAccessed": "2026-10-06T15:46:53.481Z"
+	},
+	{
+		"key": "sb",
+		"value": "vgTFarRRM99oS3aVYPi-Aw8L",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-10-06T15:46:53.481Z",
+		"lastAccessed": "2026-10-06T15:46:53.481Z"
+	},
+	{
+		"key": "ps_l",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-10-06T15:46:53.481Z",
+		"lastAccessed": "2026-10-06T15:46:53.481Z"
+	},
+	{
+		"key": "ps_n",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-10-06T15:46:53.481Z",
+		"lastAccessed": "2026-10-06T15:46:53.481Z"
+	},
+	{
+		"key": "c_user",
+		"value": "61595377910161",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-10-06T15:46:53.481Z",
+		"lastAccessed": "2026-10-06T15:46:53.481Z"
+	},
+	{
+		"key": "xs",
+		"value": "21%3AeFtZT60rCr6LgA%3A2%3A1791296809%3A-1%3A-1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-10-06T15:46:53.481Z",
+		"lastAccessed": "2026-10-06T15:46:53.481Z"
+	},
+	{
+		"key": "pas",
+		"value": "61595377910161%3AgCOWTfNjfo",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-10-06T15:46:53.481Z",
+		"lastAccessed": "2026-10-06T15:46:53.481Z"
+	},
+	{
+		"key": "locale",
+		"value": "en_GB",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-10-06T15:46:53.481Z",
+		"lastAccessed": "2026-10-06T15:46:53.481Z"
+	},
+	{
+		"key": "vpd",
+		"value": "v1%3B624x333x2.157599449157715",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-10-06T15:46:53.481Z",
+		"lastAccessed": "2026-10-06T15:46:53.481Z"
+	},
+	{
+		"key": "m_pixel_ratio",
+		"value": "2.157599449157715",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-10-06T15:46:53.481Z",
+		"lastAccessed": "2026-10-06T15:46:53.481Z"
+	},
+	{
+		"key": "wd",
+		"value": "385x854",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-10-06T15:46:53.481Z",
+		"lastAccessed": "2026-10-06T15:46:53.481Z"
+	},
+	{
+		"key": "fr",
+		"value": "04jRbJpgkHsIc4y4N.AWf3HHg6kQdrEcteY9f2QizG8jpJF4rjzpgFAqQ4M9dFWll5Spc.BqxQS-..AAA.0.0.BqxRU6.AWduucSC7rHYuBo24_baUDjt_-Y",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-10-06T15:46:53.481Z",
+		"lastAccessed": "2026-10-06T15:46:53.481Z"
+	},
+	{
+		"key": "fbl_st",
+		"value": "101234668%3BT%3A29855015",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-10-06T15:46:53.481Z",
+		"lastAccessed": "2026-10-06T15:46:53.481Z"
+	},
+	{
+		"key": "wl_cbv",
+		"value": "v2%3Bclient_version%3A3316%3Btimestamp%3A1791300922",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-10-06T15:46:53.481Z",
+		"lastAccessed": "2026-10-06T15:46:53.481Z"
+	}
+]
