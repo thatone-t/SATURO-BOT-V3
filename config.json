@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "menherakun2026@gmail.com",
-    "password": "KEREOSENE507",
+    "email": "raer4038@gmail.com",
+    "password": "Kiara.kiara",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -22,7 +22,7 @@
   },
   "adminBot": [
     "61588828817306",
-    "61588828817306"
+    "61595332226065"
   ],
   "premiumUsers": [
     "61588828817306"
@@ -35,7 +35,8 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61588828817306"
+      "61588828817306",
+      "61595332226065"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
